@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filme+</string>
+    <string name="order_by">Ordenar por</string>
+    <string name="rate">Avaliação</string>
+    <string name="popularity">Popularidade</string>
+    <string name="favorite">Favoritos</string>
+    <string name="title">Título</string>
+    <string name="gender">Gênero</string>
+    <string name="release_date">Data de lançamento</string>
+    <string name="resume">Resumo</string>
+    <string name="no_internet">Sem conexão com a internet</string>
+    <string name="review">Resenha</string>
+    <string-array name="order_type">
+        <item>Avaliação</item>
+        <item>Popularidade</item>
+        <item>Favoritos</item>
+    </string-array>
+</resources>

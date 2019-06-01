@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie+</string>
+    <string name="order_by">Order by</string>
+    <string name="rate">Rate</string>
+    <string name="popularity">Popularity</string>
+    <string name="favorite">Favorites</string>
+    <string name="title">Title</string>
+    <string name="gender">Gender</string>
+    <string name="release_date">Release Date</string>
+    <string name="resume">Resume</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="review">Review</string>
+    <string name="trailer">Trailers</string>
+    <string-array name="order_type">
+        <item>Rate</item>
+        <item>Popularity</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
